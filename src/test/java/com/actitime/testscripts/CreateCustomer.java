@@ -18,7 +18,7 @@ public class CreateCustomer extends BaseClass {
 	public void testCreatCustomer() throws EncryptedDocumentException, InvalidFormatException, IOException
 	{
 		
-	String customerName="asdffsdf";///
+	String customerName="asfsdfdffsdf";///
 		OpenTaskPage otp=new OpenTaskPage();
 		otp.clickOnProjectsAndCustomerLink();
 	 ActiveProjectsAndCustomerPage apcp=new ActiveProjectsAndCustomerPage();

@@ -18,7 +18,7 @@ public class CreateProject extends BaseClass {
 	public void testCreateProject() throws EncryptedDocumentException, InvalidFormatException, IOException
 	{ 
 		
-		String customerName="asdffsdf";//ExcelOperation.readData("Sheet2",1,0);
+		String customerName="asfsdfdffsdf";//ExcelOperation.readData("Sheet2",1,0);
 	    String projectName="fjdklffl";//ExcelOperation.readData("Sheet2",1,1);
 		
 		OpenTaskPage otp=new OpenTaskPage();

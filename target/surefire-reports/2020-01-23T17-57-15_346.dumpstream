@@ -1,0 +1,4 @@
+# Created at 2020-01-23T17:57:15.949
+Boot Manifest-JAR contains absolute paths in classpath 'E:\AutomationWorkSpace\Actitime\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
